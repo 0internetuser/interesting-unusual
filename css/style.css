@@ -43,6 +43,13 @@ body
   color: #CE4D24;
 }
 
+.topHeader p{
+  font-size: 30px;
+  margin-top: 20px;
+  font-weight: 600;
+  color: #1ab9bc;
+}
+
 #topics{
   list-style: none;
 }
