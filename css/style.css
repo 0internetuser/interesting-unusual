@@ -126,8 +126,12 @@ body
   padding-bottom: 25px;
 }
 
-.musicLists{
+.musicList{
   list-style: none;
+  text-align: justify;
+  line-height: 25px;
+  max-width: 850px;
+  margin: auto;
 }
 
 .whiteColor{
@@ -150,9 +154,16 @@ body
   color: white;
 }
 
+.soundcloudLink{
+  color: #e56306;
+}
+
 .colorRap{
   color: #c94a10;
+}
 
+.colorChill{
+  color:#b610c9;
 }
 
 .footerLinks{
