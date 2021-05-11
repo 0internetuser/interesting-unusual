@@ -59,6 +59,10 @@ body
   padding: 8px;
 }
 
+#topics li:a{
+  color:white;
+}
+
 .returnHome{
   float: right;
 }
