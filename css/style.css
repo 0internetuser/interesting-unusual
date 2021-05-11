@@ -22,7 +22,6 @@ body
   background-color: #232528;
   padding: 10px 50px;
   text-align: center;
-  height: 100%;
 }
 
 .topHeader
@@ -110,6 +109,50 @@ body
 .relatedLinks{
   text-align: left;
   line-height: 30px;
+}
+
+.musicStyles{
+  max-width: 200px;
+  text-align: justify;
+  margin: auto;
+  line-height: 20px;
+}
+
+.musicMonth{
+  color: #ef6c0e;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Courier New';
+  padding-bottom: 25px;
+}
+
+.musicLists{
+  list-style: none;
+}
+
+.whiteColor{
+  color: white;
+}
+
+.discoveredFrom{
+  color: #1e82bc;
+}
+
+.youtubeLink{
+  color: #f7041d;
+}
+
+.spotifyLink{
+  color: #13aa08;
+}
+
+.deezerLink{
+  color: white;
+}
+
+.colorRap{
+  color: #c94a10;
+
 }
 
 .footerLinks{
