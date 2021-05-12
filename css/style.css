@@ -166,6 +166,13 @@ body
   color:#b610c9;
 }
 
+.justifiedList{
+  text-align: justify;
+  line-height: 25px;
+  max-width: 800px;
+  margin: auto;
+}
+
 .footerLinks{
   list-style: none;
 }
